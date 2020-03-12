@@ -2,7 +2,21 @@ body{
     color: deeppink;
     text-align: center;
     font-family: "Arial";
-    
-    
+    font-size: 10px;
+    margin: 0;
+    padding: 0;
+    }
 
+#contrainer
+{
+    width: 70%;
+    padding: 1cm;
+    text-align: left;
+    border: 1px solid white;
+    margin: 0 auto;
+}
+
+#contrainer h1
+{
+    font-size: 20px;
 }
